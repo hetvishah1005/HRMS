@@ -1,0 +1,18 @@
+	 Company Name, Gujarat Infotech Limited
+        ------------------------------------------------
+        Employee Id		   : 5
+        Salary Of		     :  March - 2019
+        Generated On		  : 27-04-2022
+        --------------------------------------------------
+        Total Days		    : 31
+        Total Present		 : 29
+        Total Leaves		  :  2
+        Convence		      : Rs.100
+        Medical		       : Rs.500
+        PF			          : Rs.1080
+        Gross Payment		 : 9000
+        Net Salary		    : 6939.35
+        ------------------------------------------------
+        This is Computer generated slip,
+        not required any Signature
+        
